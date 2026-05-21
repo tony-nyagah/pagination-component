@@ -1,0 +1,13 @@
+<!-- public/favicon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Harsh bottom-right shadow -->
+  <rect x="6" y="6" width="22" height="22" fill="#000000" />
+  
+  <!-- Main yellow box -->
+  <rect x="2" y="2" width="22" height="22" fill="#FBBF24" stroke="#000000" stroke-width="3" stroke-linejoin="round" />
+  
+  <!-- Bold text -->
+  <text x="13" y="17" font-family="system-ui, sans-serif" font-weight="900" font-size="12" fill="#000000" text-anchor="middle" dominant-baseline="middle">
+    P
+  </text>
+</svg>
